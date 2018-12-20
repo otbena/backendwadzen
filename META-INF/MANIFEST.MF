@@ -1,0 +1,8 @@
+Manifest-Version: 1
+Bundle-ManifestVersion: 2
+Bundle-Name: backendwadzen
+Bundle-SymbolicName: backendwadzen
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.wadzem.backendwadzen,
+ com.wadzem.backendwadzen.controller,
+ com.wadzem.backendwadzen.model
